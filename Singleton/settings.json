@@ -1,0 +1,4 @@
+﻿{
+  "DatabaseConnection": "Data Source=.\\SQLEXPRESS;Initial Catalog=Bookstore;Integrated Security=True",
+  "IsDebug": true
+}
