@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{13F0B9B5-6DCB-47C9-B100-DF7499137A6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{438F71D8-B205-4943-B23C-30B8CC8F6DAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{13F0B9B5-6DCB-47C9-B100-DF7499137A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13F0B9B5-6DCB-47C9-B100-DF7499137A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13F0B9B5-6DCB-47C9-B100-DF7499137A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438F71D8-B205-4943-B23C-30B8CC8F6DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438F71D8-B205-4943-B23C-30B8CC8F6DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438F71D8-B205-4943-B23C-30B8CC8F6DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438F71D8-B205-4943-B23C-30B8CC8F6DAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -82,6 +88,7 @@ Global
 		{1D7E9EF1-3C07-4D70-98CF-EDAABCF55E99} = {A8537CCE-DF10-49BC-AB1B-91A9CFF025BB}
 		{7F90156F-D485-476C-A910-C0D8A3B5510E} = {6E941B31-647B-4D27-B071-144D8D726AC6}
 		{13F0B9B5-6DCB-47C9-B100-DF7499137A6F} = {A8537CCE-DF10-49BC-AB1B-91A9CFF025BB}
+		{438F71D8-B205-4943-B23C-30B8CC8F6DAB} = {6E941B31-647B-4D27-B071-144D8D726AC6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C1443502-4776-4661-804E-F7230C4A1025}
